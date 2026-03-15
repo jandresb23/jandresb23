@@ -48,5 +48,5 @@
 <br />
 
 <div align="center">
-  <img src="https://youtube-playlist-manager.onrender.com&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jandresb23&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
