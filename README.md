@@ -37,8 +37,8 @@
 
 ### 🚲 Hobbies & Interests
 
-- 🥁 **Music**: Playing drums (Electronic Percussion).
-- 🚴 **Cycling**: Enjoying rides and staying active on the bike.
+- 🥁 **Music**: Playing drums.
+- 🚴 **Cycling**: Enjoying rides on the bike.
 
 ---
 
@@ -47,9 +47,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/jandresbravob" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jandresbravob@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
