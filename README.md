@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi, I'm Jaime Andrés Bravo 🚀</h1>
   <p><strong>RPA Developer | Automation Engineer | AI Specialist</strong></p>
   <p><em>Engineering efficiency through intelligent automation.</em></p>
 </div>
