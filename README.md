@@ -16,9 +16,9 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **RPA & Automation** | Automation Anywhere, Selenium, Python |
-| **Cloud & Management** | **Google Cloud Console**, **GitHub**, **Supabase**, REST APIs |
-| **Databases** | **SQL Server**, PostgreSQL, Oracle |
+| **RPA & Automation** | Automation Anywhere, Python |
+| **Cloud & Management** | Google Cloud, GitHub, Supabase, REST APIs |
+| **Databases** | SQL Server, PostgreSQL, Oracle |
 | **Engineering** | AutoCAD, Inventor, MATLAB |
 
 ### 📈 Impact & Results
@@ -33,12 +33,12 @@
   <img src="cursal_logo.png" alt="Cursal Logo" width="400" />
 </div>
 
-> **cursal** desarrolla aplicaciones para robótica, inteligencia artificial y soluciones varias, enfocándose en la creación de ecosistemas digitales de alto rendimiento.
+> **cursal** es ingeniería de software orientada a la automatización inteligente de experiencias y servicios.
 
 ### 🚲 Hobbies & Interests
 
 - 🥁 **Music**: Playing drums.
-- 🚴 **Cycling**: Enjoying rides on the bike.
+- 🚴 **Sports**: Bike. Futbol.
 
 ---
 
